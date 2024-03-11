@@ -947,6 +947,13 @@ section{
 
 
 @media(max-width:500px){
+ .iconofheading{
+        height: 20px;
+        width: 20px;
+    }
+    .navibar > .max-width > .logo > a{
+        font-size: 22px;
+    }
    .home{
     background-size: cover;
    } 

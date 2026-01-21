@@ -14,12 +14,12 @@ $(document).ready(function(){
 });
 
 // typing animation 
-var typed = new Typed(".typing",{
-    strings:["Software Tester","Manual Tester","Automation Tester","QA Engineer"],
-    typeSpeed: 80,
-    backSpeed: 60,
-    loop: true
-})
+// var typed = new Typed(".typing",{
+//     strings:["Software Tester","Manual Tester","Automation Tester","QA Engineer"],
+//     typeSpeed: 80,
+//     backSpeed: 60,
+//     loop: true
+// })
 
 var typed = new Typed(".typing-1",{
     strings:["Software Tester","Manual Tester","Automation Tester","QA Engineer"],
